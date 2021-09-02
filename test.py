@@ -1,3 +1,3 @@
 import pygame
 
-a = 1
+text = "i know what you did last summer"
